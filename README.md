@@ -1,6 +1,6 @@
 # Jordan Weather Identifier - Tkinter Legacy (Python 102)
 ### The Story
-This was my second major coding milestone, created during my Python 101 course back when I was nearly 12. I wanted to explore GUI (Graphical User Interface) development. This project was the precursor to my modern Web-based Weather App and more advanced Tkinter GUI.
+This was my second major coding milestone, created during my Python 101 course back when I was 12 and a half. I wanted to explore GUI (Graphical User Interface) development, so I made this project, which was also the precursor to my modern Web-based Weather App and more advanced Tkinter GUI.
 ### The Evolution Pipeline
 **Python 101 (This Repo): First GUI experiment using local .txt files and basic if/elif logic.**
 
